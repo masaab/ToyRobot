@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.Tests.deps.json
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.Tests.runtimeconfig.json
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.Tests.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.Tests.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.Tests.pdb
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\bin\Debug\netcoreapp2.2\ToyRobot.pdb
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.csproj.CopyComplete
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.dll
+C:\Users\Owner\source\repos\ToyRobot\ToyRobot.Tests\obj\Debug\netcoreapp2.2\ToyRobot.Tests.pdb
