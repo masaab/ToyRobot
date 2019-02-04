@@ -5874,11 +5874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
+      "projectUniqueName": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
       "projectName": "ToyRobot.Tests",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
+      "projectPath": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot.Tests\\ToyRobot.Tests.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot.Tests\\obj\\",
+      "outputPath": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5897,8 +5897,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {
-              "projectPath": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj"
+            "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {
+              "projectPath": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot\\ToyRobot.csproj"
             }
           }
         }

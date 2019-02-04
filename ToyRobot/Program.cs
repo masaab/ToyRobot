@@ -156,12 +156,4 @@ namespace ToyRobot
             p.GamePlay();
         }
     }
-
-    public class ToyEntryDirection
-    {
-        public string Placement { get; set; }
-        public int positionX { get; set; }
-        public int positionY { get; set; }
-        public Directions ToyDirection { get; set; }
-    }
 }

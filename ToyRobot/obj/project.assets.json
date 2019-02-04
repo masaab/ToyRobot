@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+      "projectUniqueName": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
       "projectName": "ToyRobot",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+      "projectPath": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\ToyRobot\\ToyRobot\\obj\\",
+      "outputPath": "C:\\HomeDevelopment\\Readify\\ToyRobot\\ToyRobot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

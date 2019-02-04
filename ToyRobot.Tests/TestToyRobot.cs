@@ -7,7 +7,7 @@ namespace ToyRobot.Tests
     {
         [Theory]
         [InlineData("Output: 4,4,EAST")]
-        public void TestDirection(String DATA1)
+        public void TestDirection(string expectedString)
         {
             Program p = new Program("PLACE",1,2,Directions.east);
 
@@ -22,7 +22,7 @@ namespace ToyRobot.Tests
 
             string output = p.GetOutput();
 
-            Assert.Equal(DATA1, output);
+            Assert.Equal(expectedString, output);
         }
     }
 }
